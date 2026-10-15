@@ -1,0 +1,21 @@
+# TLDs frequently abused (no leading dot)
+xyz
+top
+icu
+shop
+click
+link
+online
+site
+live
+buzz
+cyou
+rest
+sbs
+cfd
+monster
+gq
+tk
+ml
+cf
+ga

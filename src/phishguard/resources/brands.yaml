@@ -1,0 +1,31 @@
+brands:
+  - {name: 네이버, keywords: [naver], official_domains: [naver.com, naver.me]}
+  - {name: 카카오, keywords: [kakao, kakaotalk], official_domains: [kakao.com, kakaocorp.com]}
+  - {name: 쿠팡, keywords: [coupang], official_domains: [coupang.com]}
+  - {name: 우체국, keywords: [epost, koreapost], official_domains: [epost.go.kr, koreapost.go.kr]}
+  - {name: CJ대한통운, keywords: [cjlogistics, doortodoor], official_domains: [cjlogistics.com]}
+  - {name: 한진택배, keywords: [hanjin], official_domains: [hanjin.com, hanjin.co.kr]}
+  - {name: 롯데택배, keywords: [lotteglogis], official_domains: [lotteglogis.com]}
+  - {name: 정부24, keywords: [gov24], official_domains: [gov.kr]}
+  - {name: 홈택스, keywords: [hometax], official_domains: [hometax.go.kr]}
+  - {name: 국민건강보험, keywords: [nhis], official_domains: [nhis.or.kr]}
+  - {name: 국민은행, keywords: [kbstar, kbcard], official_domains: [kbstar.com, kbcard.com]}
+  - {name: 신한, keywords: [shinhan], official_domains: [shinhan.com, shinhancard.com]}
+  - {name: 우리은행, keywords: [wooribank], official_domains: [wooribank.com]}
+  - {name: 하나은행, keywords: [hanabank], official_domains: [hanabank.com]}
+  - {name: 농협, keywords: [nonghyup, nhbank], official_domains: [nonghyup.com]}
+  - {name: 토스, keywords: [toss], official_domains: [toss.im, tossbank.com]}
+  - {name: 카카오뱅크, keywords: [kakaobank], official_domains: [kakaobank.com]}
+  - {name: 삼성, keywords: [samsung], official_domains: [samsung.com]}
+  - {name: 배달의민족, keywords: [baemin], official_domains: [baemin.com]}
+  - {name: 11번가, keywords: [11st], official_domains: [11st.co.kr]}
+  - {name: PayPal, keywords: [paypal], official_domains: [paypal.com]}
+  - {name: Apple, keywords: [apple, icloud], official_domains: [apple.com, icloud.com]}
+  - {name: Microsoft, keywords: [microsoft, outlook, office365], official_domains: [microsoft.com, live.com, office.com, outlook.com]}
+  - {name: Google, keywords: [google, gmail], official_domains: [google.com, gmail.com]}
+  - {name: Amazon, keywords: [amazon], official_domains: [amazon.com]}
+  - {name: Netflix, keywords: [netflix], official_domains: [netflix.com]}
+  - {name: Facebook, keywords: [facebook], official_domains: [facebook.com]}
+  - {name: Instagram, keywords: [instagram], official_domains: [instagram.com]}
+  - {name: DHL, keywords: [dhl], official_domains: [dhl.com]}
+  - {name: Binance, keywords: [binance], official_domains: [binance.com]}

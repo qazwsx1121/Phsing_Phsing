@@ -1,0 +1,25 @@
+# Keywords common in phishing URLs
+login
+signin
+verify
+verification
+account
+update
+secure
+security
+confirm
+banking
+password
+wallet
+auth
+webscr
+unlock
+suspend
+billing
+payment
+delivery
+parcel
+refund
+invoice
+otp
+certify

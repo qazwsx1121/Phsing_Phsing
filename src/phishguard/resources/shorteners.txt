@@ -1,0 +1,22 @@
+# URL shortener hosts
+bit.ly
+tinyurl.com
+t.co
+goo.gl
+ow.ly
+is.gd
+buff.ly
+cutt.ly
+rebrand.ly
+t.ly
+shorturl.at
+rb.gy
+han.gl
+me2.do
+vo.la
+url.kr
+buly.kr
+c11.kr
+naver.me
+abit.ly
+lrl.kr
