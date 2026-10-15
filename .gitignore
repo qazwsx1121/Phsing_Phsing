@@ -1,2 +1,10 @@
 .superpowers/
 .remember/
+.venv/
+__pycache__/
+*.egg-info/
+data/raw/
+data/processed/
+models/*.joblib
+cache.sqlite3
+.pytest_cache/
