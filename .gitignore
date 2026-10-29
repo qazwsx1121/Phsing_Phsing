@@ -8,4 +8,3 @@ data/processed/
 models/*.joblib
 cache.sqlite3
 .pytest_cache/
-IMPLEMENTATION_PLAN.md
